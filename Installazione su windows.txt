@@ -1,0 +1,11 @@
+1.Installare Python 3.6.5
+2.pip3 install --upgrade pip
+3.pip install --no-use-pep517 opencv-python
+4.pip install mediapipe
+5.python -m pip install "tensorflow<2.11"
+6.pip install pyautogui
+7.pip install pypiwin32
+8.pip install SpeechRecognition
+9.pip install pynput
+10.pip install pipwin
+11.pipwin install pyaudio (pipwin is like pip, but it installs precompiled Windows binaries provided by Christoph Gohlke. Saves you a lot of googling and manual downloading.)
